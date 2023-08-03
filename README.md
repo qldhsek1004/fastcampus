@@ -12,12 +12,15 @@ Spring을 이용하여 Web사이트 개발
 ### :zap: 주요기능
 
 - 홈 화면
-![플로차트](https://github.com/JunseongHeo/FishingInformationSystem/blob/main/Presentation/0729%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%EC%BA%A1%EC%B3%90/%ED%94%8C%EB%A1%9C%EC%B0%A8%ED%8A%B8.png?raw=true)
+![홈](https://github.com/qldhsek1004/fastcampus/assets/106101558/7692f476-ea46-4477-991f-2753cf42402f)
+
 
 - 로그인 화면
-![중고거래1](https://github.com/JunseongHeo/FishingInformationSystem/blob/main/Presentation/0729%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%EC%BA%A1%EC%B3%90/%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%981.JPG?raw=true)
+![로그인](https://github.com/qldhsek1004/fastcampus/assets/106101558/3daaada1-58d1-4704-ab67-697e9347a03f)
+
 
 - 커뮤니티 게시판
-![커뮤니티](https://github.com/JunseongHeo/FishingInformationSystem/blob/main/Presentation/0729%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C/%EC%BA%A1%EC%B3%90/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%EA%B2%8C%EC%8B%9C%ED%8C%90.JPG?raw=true)
+![게시판](https://github.com/qldhsek1004/fastcampus/assets/106101558/8d9d0f1a-cbf0-4237-bac7-8b7adf9bef8d)
 
-)
+
+
